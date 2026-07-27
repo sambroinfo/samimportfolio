@@ -1,0 +1,29 @@
+
+> portfolio-next@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.15
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.7s (499 modules)
+ GET / 200 in 6088ms
+ GET / 200 in 46ms
+ GET / 200 in 54ms
+ GET / 200 in 62ms
+ ○ Compiling /admin ...
+ ✓ Compiled /admin in 940ms (494 modules)
+ GET /admin 200 in 1134ms
+ GET / 200 in 80ms
+ GET / 200 in 70ms
+ GET / 200 in 45ms
+ GET /admin 200 in 49ms
+ GET / 200 in 70ms
+ GET / 200 in 37ms
+ GET / 200 in 93ms
+ GET / 200 in 45ms
+ GET / 200 in 73ms
+ GET / 200 in 645ms
+ GET /admin 200 in 88ms
