@@ -27,3 +27,12 @@
  GET / 200 in 73ms
  GET / 200 in 645ms
  GET /admin 200 in 88ms
+ ○ Compiling /_error ...
+ GET / 500 in 9631ms
+ GET / 500 in 13ms
+ GET /admin 500 in 46ms
+ GET /admin 500 in 13ms
+ GET / 500 in 47ms
+ GET / 500 in 14ms
+ GET / 500 in 1443ms
+ GET / 500 in 85ms
